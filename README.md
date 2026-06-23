@@ -1,4 +1,4 @@
-# Prediksi Curah Hujan Kota Bandun
+# Prediksi Curah Hujan Kota Bandung
 
 Proyek ini bertujuan untuk membangun model machine learning (Time Series Forecasting atau Regresi) untuk memprediksi jumlah curah hujan bulanan di wilayah Kota Bandung. Proyek ini menggunakan data historis resmi resmi dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) yang dirilis secara tahunan.
 
