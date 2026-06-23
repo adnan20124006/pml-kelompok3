@@ -1,10 +1,10 @@
-# Prediksi Curah Hujan Kota Bandung
+# Prediksi Curah Hujan Kota Bandun
 
 Proyek ini bertujuan untuk membangun model machine learning (Time Series Forecasting atau Regresi) untuk memprediksi jumlah curah hujan bulanan di wilayah Kota Bandung. Proyek ini menggunakan data historis resmi resmi dari Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) yang dirilis secara tahunan.
 
 ## 📌 Struktur Proyek
 
-Proyek ini menggunakan struktur standar *Cookiecutter Data Science*:
+Proyek ini menggunakan struktur standar _Cookiecutter Data Science_:
 
 ```text
 ├── LICENSE
@@ -30,3 +30,4 @@ Proyek ini menggunakan struktur standar *Cookiecutter Data Science*:
 │   ├── models         <- Script pelatihan dan prediksi (`train_model.py`, `predict_model.py`)
 │   └── visualization  <- Script visualisasi tren curah hujan (`visualize.py`)
 └── tox.ini            <- Pengaturan otomatisasi pengujian dengan tox
+```
